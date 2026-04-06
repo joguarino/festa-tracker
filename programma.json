@@ -1,0 +1,332 @@
+{
+  "titolo": "S. Maria dell'Agnena",
+  "sottotitolo": "Festa Patronale 2026",
+  "luogo": "Vitulazio (CE)",
+  "titolo_countdown": "Al Radioso Giorno",
+  "giorni": [
+    {
+      "data": "2026-04-06",
+      "titolo": "Lunedì in Albis",
+      "eventi": [
+        {
+          "ora": "09:30",
+          "titolo": "Partenza del corteo",
+          "descrizione": "Dalla sede del Comitato Feste, con i tre storici quadri raffiguranti la Vergine Santissima dell'Agnena, preceduti dal Concerto Bandistico <strong>\"Città di Baia e Latina\"</strong>. Raggiunto il piazzale antistante la chiesa parrocchiale, il nostro parroco <strong>M. Rev. Valerio Lucca</strong> benedirà i sopracitati quadri. Al termine, il corteo proseguirà verso gli ingressi principali del centro abitato, ove verranno, come da tradizione, solennemente collocati. L'evento sarà salutato dal lancio di bombe carta e dal suono festoso di marce."
+        },
+        {
+          "ora": "11:30",
+          "titolo": "Concerto Bandistico in Piazza",
+          "descrizione": "In Piazza Riccardo II, il suddetto Concerto Bandistico eseguirà note marce sinfoniche."
+        }
+      ]
+    },
+    {
+      "data": "2026-04-08",
+      "titolo": "Mercoledì in Albis",
+      "eventi": [
+        {
+          "ora": "08:00",
+          "titolo": "Corteo del Simulacro verso la cappella in Agnena",
+          "descrizione": "In occasione del Centenario dell'Incoronazione, il Simulacro ligneo della nostra amata Protettrice S. Maria dell'Agnena, salutata da un nutrito lancio di bombe carta e dal suono gioioso delle campane, sarà portato, con un corteo di autovetture, nella storica cappella a Lei dedicata in località Agnena. Saranno interessate le seguenti strade: Piazza Principe di Piemonte, Viale Kennedy II e III trav., Via Circumvallazione N.O., Viale degli Ulivi, Via Circumvallazione N.O., Via Garibaldi (prolungamento), Via Verdi, Via Rimembranza, Via Tutuni e trav., Loc. Tutuni, Loc. Miceli, Loc. S. Simeone, Loc. Miceli, Via Miceli I e II trav., Via Tufo III trav., Tratto Via Iardino, Tratto Viale Dante, Via Luciani (compreso P.co Agorà e Lottizzazione Via Luciani), Via Macello, Via Luciani, Loc. Quattro Chiese, Loc. Fontana, Loc. Pastore, Loc. Collicella, Loc. Fondillo. Sosta presso la Cappella Maria SS. della Pietà (Via Platani)."
+        },
+        {
+          "ora": "15:00",
+          "titolo": "Prosieguo del corteo da Loc. Fondillo",
+          "descrizione": "Da Loc. Fondillo prosieguo del corteo: Loc. Bovenzi, Loc. Molinella, S.S. 7 Appia fino al Caseificio Russo e ritorno alla storica Cappella in Loc. Agnena."
+        },
+        {
+          "ora": "18:30",
+          "titolo": "Santa Messa Solenne in Loc. Agnena",
+          "descrizione": "In Loc. Agnena, celebrazione della Santa Messa Solenne."
+        },
+        {
+          "ora": "20:00",
+          "titolo": "Veglia dei fedeli",
+          "descrizione": "Nella storica Cappella, inizio della veglia dei fedeli, con canti e preghiere, che si protrarrà per tutta la durata della permanenza della Madonna."
+        }
+      ]
+    },
+    {
+      "data": "2026-04-09",
+      "titolo": "Giovedì in Albis",
+      "eventi": [
+        {
+          "ora": "10:00",
+          "titolo": "Santa Messa Solenne in Agnena",
+          "descrizione": "In località Agnena, nella storica cappella, Santa Messa Solenne. Al termine lancio di bombe carta."
+        },
+        {
+          "ora": "12:00",
+          "titolo": "Apertura della Festa",
+          "descrizione": "Il suono festoso dei \"sacri bronzi\" e uno spettacolo pirotecnico diurno, a cura della ditta <strong>\"Fireworks Pietro Siciliano\"</strong> da Vitulazio, annunceranno l'apertura della festa."
+        },
+        {
+          "ora": "15:00",
+          "titolo": "Rievocazione della traslazione del 1655",
+          "descrizione": "Per la prima volta, la Sacra Effigie sarà adagiata su di un carretto in legno trainato da buoi per il ritorno nella chiesa parrocchiale. Il corteo sarà accompagnato dal Concerto Bandistico <strong>\"Eco della Campania - Città di Triflisco Terme\"</strong>. Presso il quadrivio di via Ruggiero I, inizio della solenne processione della nostra Protettrice portata a spalla dall'<strong>Ass. Cattolica \"Carristi S. Maria dell'Agnena\"</strong>. Al rientro della Vergine Santissima nella Chiesa Parrocchiale, Celebrazione Eucaristica di inizio <strong>Triduo Solenne</strong>, celebrata dal nostro Parroco <strong>M. Rev. Valerio Lucca</strong> e animata da uno dei cori della parrocchia. Al termine sparo di un'artistica batteria pirotecnica accompagnato dal suono festoso di marce sinfoniche del suddetto Concerto Bandistico e intronizzazione del simulacro della Santa Vergine sul tosello artistico.",
+          "in_evidenza": true
+        }
+      ]
+    },
+    {
+      "data": "2026-04-10",
+      "titolo": "Venerdì in Albis",
+      "eventi": [
+        {
+          "ora": "15:30",
+          "titolo": "Giro bandistico",
+          "descrizione": "Giro per le vie del centro abitato da parte del Concerto Bandistico <strong>\"Regione Campania – Città di Vitulazio\"</strong>."
+        },
+        {
+          "ora": "18:00",
+          "titolo": "Santo Rosario",
+          "descrizione": "Nella chiesa parrocchiale, recita del Santo Rosario."
+        },
+        {
+          "ora": "18:30",
+          "titolo": "Seconda sera del Triduo Solenne",
+          "descrizione": "Santa Messa celebrata dal <strong>M. Rev. don Marcos Aparecido De Goes</strong>, parroco di S. Martino Vescovo in Macerata Campania, animata da uno dei cori della parrocchia. Al termine, sparo di un'artistica batteria pirotecnica. Dalla cappella di S. Michele Arcangelo, inizio del corteo verso l'Istituto delle \"Suore Ancelle dell'Immacolata\" in Piazza Riccardo II della <strong>miniatura del carro e della statua di S. Maria dell'Agnena donata dai devoti vitulatini emigrati a Toronto</strong> (Canada), portata a spalla dai ragazzi vitulatini in collaborazione con l'<strong>Ass. Cattolica \"Carristi S. Maria dell'Agnena\"</strong>, accompagnata dal suono festoso di marce sinfoniche del suddetto Concerto Bandistico.",
+          "in_evidenza": true
+        },
+        {
+          "ora": "21:30",
+          "titolo": "Serata musicale con Strange Cargo",
+          "descrizione": "In Piazza Riccardo II, serata musicale con <strong>Strange Cargo</strong>."
+        }
+      ]
+    },
+    {
+      "data": "2026-04-11",
+      "titolo": "Sabato in Albis",
+      "sottotitolo": "Centenario dell'Incoronazione",
+      "eventi": [
+        {
+          "ora": "08:00",
+          "titolo": "Annuncio del Centenario e della vigilia",
+          "descrizione": "Il suono gioioso delle campane, accompagnato da uno spettacolo pirotecnico diurno curato dalla ditta <strong>\"Fireworks Pietro Siciliano\"</strong> da Vitulazio, annuncerà il giorno del Centenario e della vigilia della secolare festività."
+        },
+        {
+          "ora": "08:30",
+          "titolo": "Arrivo dei Gran Concerti Bandistici",
+          "descrizione": "Arrivo e giro per le vie del centro abitato del Gran Concerto Bandistico <strong>\"Città di Rutigliano\"</strong> e del Concerto Bandistico <strong>\"Regione Campania - Città di Vitulazio\"</strong>, che ci allieteranno con notissime marce."
+        },
+        {
+          "ora": "11:00",
+          "titolo": "Concerto di musica classica",
+          "descrizione": "In Piazza Riccardo II, il Gran Concerto Bandistico <strong>\"Città di Rutigliano\"</strong> eseguirà scelti brani di musica classica."
+        },
+        {
+          "ora": "16:45",
+          "titolo": "Giro bandistico pomeridiano",
+          "descrizione": "Giro per le vie del centro abitato da parte del Gran Concerto Bandistico <strong>\"Città di Rutigliano\"</strong>."
+        },
+        {
+          "ora": "17:00",
+          "titolo": "Intronizzazione della Sacra Effigie",
+          "descrizione": "Intronizzazione della Sacra Effigie della nostra Madonna sul palco del Centro Parrocchiale."
+        },
+        {
+          "ora": "17:30",
+          "titolo": "Ultima sera del Triduo — Rito dell'Incoronazione",
+          "descrizione": "Presso il Centro Parrocchiale, solenne Celebrazione Eucaristica presieduta da <strong>S.E. Rev.ma Mons. Pietro Lagnese</strong>, Arcivescovo di Capua-Caserta, nonché nostro concittadino, durante la quale ripeterà il rito dell'Incoronazione, animata dal coro parrocchiale, solisti e coro giovanile del Liceo Musicale \"Terra di Lavoro\" di Caserta, diretti dal nostro concittadino <strong>M° Raffaele Russo</strong>. Al termine, spettacolo scenografico piromusicale eseguito dalla ditta <strong>\"Pyrotek Italia\"</strong> da Apricena (FG). Seguirà il rientro della Madonna nella chiesa parrocchiale con la tradizionale lettura delle offerte, pervenute dall'estero e dall'interno, nonché quella dell'<strong>Associazione Cattolica \"Carristi Santa Maria dell'Agnena\"</strong>, con i relativi aderenti. La sacra effige lignea della <strong>Vergine Santissima dell'Agnena</strong>, sulle note dell'antico Inno in onore della Vergine: <em>\"Ave Maria\"</em> del <strong>M° Cimaruta</strong> (detta <em>delle campane</em>), diretta dal <strong>M° Raffaele Russo</strong>, sarà solennemente collocata su di un artistico carro. Seguirà il corteo dei fedeli e del Comitato, unitamente alle autorità religiose, civili, militari, accompagnati dal Gran Concerto Bandistico <strong>\"Città di Rutigliano\"</strong>. All'arrivo nella c.d. \"Piazza Croce\", sarà dispiegata la gigantografia della nostra Amata Protettrice. Al termine, il corteo raggiungerà Piazza Riccardo II, dove avrà luogo l'esposizione del quadro raffigurante la <strong>Vergine Santissima dell'Agnena</strong> sulla cassa armonica, dove resterà esposto per tutto il periodo dei festeggiamenti.",
+          "in_evidenza": true
+        },
+        {
+          "ora": "21:30",
+          "titolo": "Concerto di musica operistica",
+          "descrizione": "In Piazza Riccardo II, il Gran Concerto Bandistico <strong>\"Città di Rutigliano\"</strong>, valentemente diretto dal <strong>M° Gaetano Cellammara</strong>, eseguirà uno scelto programma di musica operistica. Durante l'intera giornata, nel Centro Parrocchiale sarà allestito uno stand in collaborazione con le Poste Italiane per l'<strong>Annullo Filatelico</strong> in occasione del Centenario."
+        }
+      ]
+    },
+    {
+      "data": "2026-04-12",
+      "titolo": "Domenica in Albis · Il Radioso Giorno",
+      "sottotitolo": "Giorno Solenne · La Festa",
+      "main_event": true,
+      "eventi": [
+        {
+          "ora": "06:00",
+          "titolo": "Saluto all'alba del Radioso Giorno",
+          "descrizione": "L'alba del radioso giorno tanto atteso da un intero anno da tutta la comunità vitulatina, sarà salutata da uno spettacolo pirotecnico diurno curato dalla ditta <strong>\"Carmine Lieto\"</strong> da Visciano (NA) e dal suono gaudioso dei \"sacri bronzi\"."
+        },
+        {
+          "ora": "06:30",
+          "titolo": "Santa Messa Solenne",
+          "descrizione": "Santa Messa solenne celebrata dal <strong>M. Rev. Parroco don Valerio Lucca</strong> e animata da uno dei cori della parrocchia."
+        },
+        {
+          "ora": "08:00",
+          "titolo": "Solenne Processione della Vergine Santissima",
+          "descrizione": "Un particolare omaggio alla Vergine Santissima dell'Agnena, a cura della ditta <strong>\"Carmine Lieto\"</strong> da Visciano (NA), accompagnerà l'uscita della Sacra Immagine sul piazzale antistante la chiesa. Seguirà la Solenne Processione della nostra Amata Protettrice, portata a spalla dall'<strong>Ass. Cattolica \"Carristi Santa Maria dell'Agnena\"</strong>, attraverserà tutte le vie cittadine, accompagnata dal Gran Concerto Bandistico <strong>\"Città di Lanciano\"</strong>, dal Gran Concerto Bandistico <strong>\"Città di Ailano\"</strong> e dal Concerto Bandistico <strong>\"Città di Baia e Latina\"</strong>. Nelle strade attraversate dalla processione si terranno spari di artistiche batterie pirotecniche, a devozione dei cittadini in esse residenti. Fuochi particolarmente spettacolari, curati dagli storici <strong>\"Fuochi Popolari\"</strong>.",
+          "in_evidenza": true
+        },
+        {
+          "ora": "10:00",
+          "titolo": "Santa Messa",
+          "descrizione": "Nella chiesa parrocchiale, celebrazione della Santa Messa."
+        },
+        {
+          "ora": "18:00",
+          "titolo": "Santa Messa",
+          "descrizione": "Nella chiesa parrocchiale, celebrazione della Santa Messa."
+        },
+        {
+          "ora": "21:00",
+          "titolo": "Spettacolo pirotecnico diurno",
+          "descrizione": "All'arrivo della processione in Loc. Iardino, grandioso spettacolo pirotecnico diurno eseguito dalla premiata ditta <strong>\"L'Artificiosa dei Fratelli Di Candia\"</strong> da Sassano (SA)."
+        },
+        {
+          "ora": "23:45",
+          "titolo": "Gran Finale — Spettacolo piromusicale",
+          "descrizione": "All'entrata della Madonna nel Centro Parrocchiale, ai piedi della Croce del III Millennio illuminata in una particolare atmosfera, il <strong>M° Raffaele Russo</strong> intonerà l'<em>Ave Maria</em> di Schubert e l'<em>Ave Madonna Santa</em>. Seguirà un momento di raccoglimento e di preghiera da parte del nostro <strong>M. Rev. Parroco Valerio Lucca</strong>. Al termine, la ditta <strong>\"Pyrotek Italia\"</strong> da Apricena (FG), eseguirà uno spettacolo scenografico piromusicale. Successivamente, il rientro della Vergine Santissima dell'Agnena in chiesa sarà accompagnato da un ulteriore omaggio, particolare e suggestivo.",
+          "in_evidenza": true
+        }
+      ]
+    },
+    {
+      "data": "2026-04-13",
+      "titolo": "Lunedì",
+      "eventi": [
+        {
+          "ora": "08:00",
+          "titolo": "Sveglia",
+          "descrizione": "Sveglia con un nutrito lancio di bombe carta."
+        },
+        {
+          "ora": "08:30",
+          "titolo": "Giro bandistico mattutino",
+          "descrizione": "Giro per le vie del centro abitato del Gran Concerto Bandistico <strong>\"Città di Lanciano\"</strong> e del Gran Concerto Bandistico <strong>\"Città di Ailano\"</strong>."
+        },
+        {
+          "ora": "10:30",
+          "titolo": "Concerto di musica classica",
+          "descrizione": "In Piazza Riccardo II, i suddetti Gran Concerti Bandistici eseguiranno scelti brani di musica classica."
+        },
+        {
+          "ora": "17:45",
+          "titolo": "Accoglienza dell'Arcivescovo emerito di Napoli",
+          "descrizione": "In Piazza Principe di Piemonte, accoglienza dell'<strong>Arcivescovo emerito di Napoli</strong>, con l'<em>Inno Pontificio</em> eseguito dai suddetti Gran Concerti Bandistici."
+        },
+        {
+          "ora": "18:00",
+          "titolo": "Giro bandistico serale",
+          "descrizione": "Giro per le vie del centro abitato dei due sopra menzionati Gran Concerti Bandistici."
+        },
+        {
+          "ora": "18:00",
+          "titolo": "Messa Pontificalis",
+          "descrizione": "Nella chiesa parrocchiale, Solenne Celebrazione <strong>\"Missa Pontificalis\"</strong> presieduta da <strong>S. Em.za Cardinale Crescenzo Sepe</strong>. I canti che accompagneranno la liturgia saranno eseguiti da artisti provenienti da diverse istituzioni musicali campane e dai cori riuniti della nostra parrocchia, diretti dal nostro concittadino <strong>M° Raffaele Russo</strong>. Saranno altresì intonati antichi inni in onore della Beata Vergine e l'antica <em>\"Ave Maria\"</em> del <strong>M° Cimaruta</strong> (detta <em>delle campane</em>). Al termine, sparo di un'artistica batteria pirotecnica.",
+          "in_evidenza": true
+        },
+        {
+          "ora": "20:30",
+          "titolo": "Concerto bandistico serale",
+          "descrizione": "In Piazza Riccardo II, il Premiato Gran Concerto Bandistico <strong>\"Città di Lanciano\"</strong>, diretto dal <strong>M° Rocco Eletto</strong>, e il Premiato Gran Concerto Bandistico <strong>\"Città di Ailano\"</strong>, diretto dal <strong>M° Giovanni Minafra</strong>, si alterneranno eseguendo scelti brani di musica classica e sinfonica. A chiusura della giornata, come ormai da tradizione, i Gran Concerti Bandistici eseguiranno la celebre marcia sinfonica <strong>\"A Tubo\"</strong>."
+        }
+      ]
+    },
+    {
+      "data": "2026-04-17",
+      "titolo": "Venerdì",
+      "eventi": [
+        {
+          "ora": "21:00",
+          "titolo": "Serata musicale",
+          "descrizione": "Serata musicale. Dettagli in aggiornamento."
+        }
+      ]
+    },
+    {
+      "data": "2026-04-18",
+      "titolo": "Sabato",
+      "sottotitolo": "'O Cuncertino",
+      "eventi": [
+        {
+          "ora": "08:00",
+          "titolo": "Sveglia",
+          "descrizione": "Sveglia con lancio di bombe carta."
+        },
+        {
+          "ora": "21:30",
+          "titolo": "Concerto — Noto artista della canzone italiana",
+          "descrizione": "In Piazza Vitulatini nel Mondo (Area Mercato), concerto di un <strong>noto artista della canzone italiana</strong>.",
+          "in_evidenza": true
+        }
+      ]
+    },
+    {
+      "data": "2026-04-19",
+      "titolo": "Ottava della Festa",
+      "eventi": [
+        {
+          "ora": "07:45",
+          "titolo": "Sveglia",
+          "descrizione": "Sveglia con un nutrito lancio di bombe carta e suono festoso delle campane."
+        },
+        {
+          "ora": "08:00",
+          "titolo": "Santa Messa",
+          "descrizione": "Celebrazione della Santa Messa nella chiesa parrocchiale."
+        },
+        {
+          "ora": "08:30",
+          "titolo": "Arrivo e giro bandistico",
+          "descrizione": "Arrivo e giro per le vie del centro abitato da parte del Gran Concerto Bandistico <strong>\"Città di Mottola\"</strong>."
+        },
+        {
+          "ora": "10:00",
+          "titolo": "Santa Messa",
+          "descrizione": "Celebrazione della Santa Messa nella chiesa parrocchiale."
+        },
+        {
+          "ora": "11:00",
+          "titolo": "Concerto di musica classica",
+          "descrizione": "In Piazza Riccardo II, il Gran Concerto Bandistico <strong>\"Città di Mottola\"</strong> eseguirà scelti brani di musica classica."
+        },
+        {
+          "ora": "11:30",
+          "titolo": "Santa Messa",
+          "descrizione": "Celebrazione della Santa Messa nella chiesa parrocchiale."
+        },
+        {
+          "ora": "12:30",
+          "titolo": "Estrazione della lotteria",
+          "descrizione": "In Piazza Riccardo II, estrazione della lotteria <strong>\"Aspettiamo insieme la Festa\"</strong>, del <strong>\"Premio Fedeltà\"</strong> e del <strong>\"Premio Centenario\"</strong>."
+        },
+        {
+          "ora": "17:30",
+          "titolo": "Giro bandistico pomeridiano",
+          "descrizione": "Il Gran Concerto Bandistico <strong>\"Città di Mottola\"</strong> girerà per le vie cittadine."
+        },
+        {
+          "ora": "18:00",
+          "titolo": "Solenne Processione di chiusura",
+          "descrizione": "Nella chiesa parrocchiale, celebrazione della Santa Messa Solenne di ringraziamento, animata dai cori riuniti della nostra parrocchia, diretti dal nostro concittadino <strong>M° Raffaele Russo</strong>. Al termine, come da antica tradizione, a chiusura delle celebrazioni liturgiche della Festa, Solenne Processione della <strong>Vergine Santissima dell'Agnena</strong> e dei <strong>Santi venerati</strong>, portati a spalla dall'<strong>Associazione Cattolica \"Carristi Santa Maria dell'Agnena\"</strong> per le seguenti strade: Via Principe di Piemonte, Via Pietro Lagnese, Via Roma, Via Santa Maria dell'Agnena, Centro Parrocchiale, accompagnata dal Gran Concerto Bandistico <strong>\"Città di Mottola\"</strong>.",
+          "in_evidenza": true
+        },
+        {
+          "ora": "20:30",
+          "titolo": "Benedizione della stele del Centenario e spettacolo piromusicale",
+          "descrizione": "Nel Centro Parrocchiale, benedizione della stele in ricordo dell'Anno del Centenario da parte del nostro Arcivescovo <strong>S.E. Rev.ma Mons. Pietro Lagnese</strong>. Seguirà uno spettacolo piromusicale curato dalla ditta <strong>\"Pyrotek Italia\"</strong> da Apricena (FG). Al termine, rientro della Beata Vergine dell'Agnena e dei Santi Venerati in chiesa.",
+          "in_evidenza": true
+        },
+        {
+          "ora": "21:30",
+          "titolo": "Marce sinfoniche in Piazza",
+          "descrizione": "In Piazza Riccardo II, il Gran Concerto Bandistico <strong>\"Città di Mottola\"</strong> eseguirà alcune marce sinfoniche."
+        },
+        {
+          "ora": "22:30",
+          "titolo": "Drone Show — Centenario S. Maria dell'Agnena",
+          "descrizione": "Presso lo stadio comunale di Vitulazio, novità assoluta: grandioso spettacolo luminoso <strong>Drone Show \"Centenario S. Maria dell'Agnena\"</strong> eseguito dalla premiata ditta <strong>\"Giuliani Fireworks\"</strong> da Toffia (RI).",
+          "in_evidenza": true
+        },
+        {
+          "ora": "23:00",
+          "titolo": "Chiusura della Festa",
+          "descrizione": "A chiusura della Festa, deposizione del Quadro dalla cassa armonica e riportato presso la sede del comitato accompagnato dal Gran Concerto Bandistico <strong>\"Città di Mottola\"</strong>. Seguirà, nella c.d. \"Piazza Croce\", il ripiegamento della gigantografia della nostra amata protettrice."
+        }
+      ]
+    }
+  ]
+}
