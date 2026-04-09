@@ -13,5 +13,5 @@
     picture-in-picture;
     web-share;
   "
-  allowFullScreen="true"
+  allowfullscreen="true"
 ></iframe>
