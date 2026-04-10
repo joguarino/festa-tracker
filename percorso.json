@@ -426,12 +426,12 @@
   },
   {
     "index": 85,
-    "orario": "00:35",
+    "orario": "00:30",
     "nome": "Centro Parrocchiale<hr><em>Spettacolo Piromusicale</em>"
   },
   {
     "index": 86,
-    "orario": "01:00",
+    "orario": "~",
     "nome": "Chiesa<hr><em>Rientro</em>"
   }
 ]
