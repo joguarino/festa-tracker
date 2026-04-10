@@ -1,13 +1,13 @@
 [
   {
     "index": 1,
-    "orario": "08:05",
-    "nome": "Chiesa<hr><em>Uscita</em>"
+    "orario": "08:00",
+    "nome": "Chiesa<hr><em>Spettacolo coreografico</em>"
   },
   {
     "index": 2,
     "orario": "08:10",
-    "nome": "Via S. Maria dell'Agnena<hr><em>Fuochi Popolari</em>"
+    "nome": "Via S. Maria dell'Agnena<hr><em>Batteria sanseverese</em>"
   },
   {
     "index": 3,
@@ -16,13 +16,13 @@
   },
   {
     "index": 4,
-    "orario": "~",
-    "nome": "Via P. Lagnese"
+    "orario": "08:40",
+    "nome": "Via P. Lagnese<hr><em>Grandiosa batteria sanseverese</em>"
   },
   {
     "index": 5,
     "orario": "08:55",
-    "nome": "Viale Kennedy<hr><em>Fuochi Popolari</em>"
+    "nome": "Viale Kennedy<hr><em>Batteria pirotecnica</em>"
   },
   {
     "index": 6,
@@ -46,8 +46,8 @@
   },
   {
     "index": 10,
-    "orario": "10:20",
-    "nome": "Mausoleo Ossario Cava dei 54 Martiri<hr><em>Fuochi Popolari</em>"
+    "orario": "10:30",
+    "nome": "Mausoleo Ossario Cava dei 54 Martiri<hr><em>Batteria pirotecnica</em>"
   },
   {
     "index": 11,
@@ -61,8 +61,8 @@
   },
   {
     "index": 13,
-    "orario": "~",
-    "nome": "Via Luciani"
+    "orario": "11:00",
+    "nome": "Via Luciani<hr><em>Batteria sanseverese</em>"
   },
   {
     "index": 14,
@@ -77,7 +77,7 @@
   {
     "index": 16,
     "orario": "11:20",
-    "nome": "Via Luciani<hr><em>Fuochi Popolari</em>"
+    "nome": "Via Luciani<hr><em>Grandiosa batteria sanseverese</em>"
   },
   {
     "index": 17,
@@ -116,13 +116,13 @@
   },
   {
     "index": 24,
-    "orario": "~",
-    "nome": "Via L. Da Vinci"
+    "orario": "12:20",
+    "nome": "Via L. Da Vinci<hr><em>Batteria sanseverese</em>"
   },
   {
     "index": 25,
     "orario": "12:35",
-    "nome": "Prolung. Via T. Tommasi<hr><em>Fuochi Popolari</em>"
+    "nome": "Prolung. Via T. Tommasi<hr><em>Batteria pirotecnica</em>"
   },
   {
     "index": 26,
@@ -202,17 +202,17 @@
   {
     "index": "",
     "orario": "14:45",
-    "nome": "<em>Fuochi Popolari</em>"
+    "nome": "<em>Loc. Iardino - Grandioso spettacolo pirotecnico diurno</em>"
   },
   {
     "index": 41,
     "orario": "15:05",
-    "nome": "Cimitero<hr><em>Spettacolo Diurno</em>"
+    "nome": "Cimitero<hr><em>Grandiosa batteria sanseverese</em>"
   },
   {
     "index": 42,
-    "orario": "~",
-    "nome": "Loc. Miceli"
+    "orario": "15:30",
+    "nome": "Loc. Miceli<hr><em>Batteria pirotecnica</em>"
   },
   {
     "index": 43,
@@ -272,7 +272,7 @@
   {
     "index": 54,
     "orario": "18:00",
-    "nome": "Via Petrarca<hr><em>Batteria</em>"
+    "nome": "Via Petrarca<hr><em>Batteria pirotecnica</em>"
   },
   {
     "index": 55,
@@ -312,12 +312,12 @@
   {
     "index": 62,
     "orario": "18:50",
-    "nome": "Loc. Tutuni<hr><em>Batteria dei Giovani</em>"
+    "nome": "Loc. Tutuni<hr><em>Grandiosa batteria sanseverese</em>"
   },
   {
     "index": 63,
     "orario": "19:50",
-    "nome": "Via Rimembranza<hr><em>Fuochi Popolari</em>"
+    "nome": "Via Rimembranza<hr><em>Batteria pirotecnica</em>"
   },
   {
     "index": 64,
@@ -347,7 +347,7 @@
   {
     "index": 69,
     "orario": "20:40",
-    "nome": "Via S. Pietro<hr><em>Batteria</em>"
+    "nome": "Via S. Pietro<hr><em>Batteria pirotecnica</em>"
   },
   {
     "index": 70,
@@ -362,7 +362,7 @@
   {
     "index": 72,
     "orario": "21:25",
-    "nome": "Via Garibaldi<hr><em>Batteria</em>"
+    "nome": "Via Garibaldi<hr><em>Batteria pirotecnica</em>"
   },
   {
     "index": 73,
@@ -377,7 +377,7 @@
   {
     "index": 75,
     "orario": "22:30",
-    "nome": "Via Rimembranza<hr><em>Fuochi Popolari</em>"
+    "nome": "Via Rimembranza<hr><em>Batteria pirotecnica</em>"
   },
   {
     "index": 76,
@@ -396,18 +396,23 @@
   },
   {
     "index": 79,
-    "orario": "~",
-    "nome": "Via Carducci"
+    "orario": "22:55",
+    "nome": "Via Carducci<hr><em>Batteria sanseverese</em>"
   },
   {
     "index": 80,
     "orario": "23:05",
-    "nome": "Tratto Viale Dante<hr><em>Fuochi Popolari</em>"
+    "nome": "Tratto Viale Dante<hr><em>Batteria bolognese</em>"
+  },
+  {
+    "index": "",
+    "orario": "23:10",
+    "nome": "<em>Via Petrarca - Batteria pirotecnica</em>"
   },
   {
     "index": 81,
     "orario": "23:20",
-    "nome": "Via Ruggiero I<hr><em>Batteria</em>"
+    "nome": "Via Ruggiero I<hr><em>Batteria pirotecnica</em>"
   },
   {
     "index": 82,
@@ -417,7 +422,7 @@
   {
     "index": 83,
     "orario": "00:15",
-    "nome": "Via Roma<hr><em>Fuochi Popolari</em>"
+    "nome": "Via Roma<hr><em>Batteria pirotecnica</em>"
   },
   {
     "index": 84,
@@ -427,7 +432,7 @@
   {
     "index": 85,
     "orario": "00:30",
-    "nome": "Centro Parrocchiale<hr><em>Spettacolo Piromusicale</em>"
+    "nome": "Centro Parrocchiale<hr><em>Spettacolo piromusicale</em>"
   },
   {
     "index": 86,

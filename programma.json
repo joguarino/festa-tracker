@@ -157,18 +157,23 @@
         {
           "ora": "08:00",
           "titolo": "Solenne Processione della Vergine Santissima",
-          "descrizione": "Un particolare omaggio alla Vergine Santissima dell'Agnena, a cura della ditta <strong>\"Carmine Lieto\"</strong> da Visciano (NA), accompagnerà l'uscita della Sacra Immagine sul piazzale antistante la chiesa. Seguirà la Solenne Processione della nostra Amata Protettrice, portata a spalla dall'<strong>Ass. Cattolica \"Carristi Santa Maria dell'Agnena\"</strong>, attraverserà tutte le vie cittadine, accompagnata dal Gran Concerto Bandistico <strong>\"Città di Lanciano\"</strong>, dal Gran Concerto Bandistico <strong>\"Città di Ailano\"</strong> e dal Concerto Bandistico <strong>\"Città di Baia e Latina\"</strong>. Nelle strade attraversate dalla processione si terranno spari di artistiche batterie pirotecniche, a devozione dei cittadini in esse residenti. Fuochi particolarmente spettacolari, curati dagli storici <strong>\"Fuochi Popolari\"</strong>.",
+          "descrizione": "Un particolare omaggio alla Vergine Santissima dell'Agnena, lo <strong>spettacolo coreografico</strong> realizzato della ditta \"<strong>Carmine Lieto</strong>\" da Visciano (NA), a cura del Comitato Feste, accompagnerà l'uscita della Sacra Immagine sul piazzale antistante la chiesa. Seguirà la Solenne Processione della nostra Amata Protettrice, portata a spalla dall'<strong>Ass. Cattolica \"Carristi Santa Maria dell'Agnena\"</strong>, attraverserà tutte le vie cittadine, accompagnata dal Gran Concerto Bandistico <strong>\"Città di Lanciano\"</strong>, dal Gran Concerto Bandistico <strong>\"Città di Ailano\"</strong> e dal Concerto Bandistico <strong>\"Città di Baia e Latina\"</strong>. Nelle strade attraversate dalla processione si terranno spari di artistiche batterie pirotecniche, a devozione dei cittadini in esse residenti. Fuochi particolarmente spettacolari, curati dagli storici <strong>\"Fuochi Popolari\"</strong>.",
           "in_evidenza": true
         },
         {
           "ora": "08:10",
-          "titolo": "Fuochi Popolari - Via Santa Maria dell'Agnena",
-          "descrizione": "<strong>Via Santa Maria dell'Agnena</strong>, batteria alla sanseverese a cura della <strong>\"Nuova Pirodaunia\" di Altrui Michele</strong> da San Severo (FG)."
+          "titolo": "Batteria sanseverese - Via Santa Maria dell'Agnena",
+          "descrizione": "<strong>Via Santa Maria dell'Agnena</strong>, batteria sanseverese realizzato dalla ditta \"<strong>Nuova Pirodaunia, Altrui Michele</strong>\" da San Severo (FG).<hr><em>A cura di: <strong>Fuochi Popolari</strong></em>"
+        },
+        {
+          "ora": "08:40",
+          "titolo": "Grandiosa batteria sanseverese - Via Pietro Lagnese",
+          "descrizione": "<strong>Via Pietro Lagnese</strong>, grandiosa batteria sanseverese realizzato dalla ditta \"<strong>Pirotecnica San Pio</strong>\" da San Severo (FG).<hr><em>A cura di: <strong>Amministrazione Comunale</strong></em>"
         },
         {
           "ora": "08:55",
-          "titolo": "Fuochi Popolari - Viale Kennedy",
-          "descrizione": "<strong>Viale Kennedy</strong>, batteria alla napoletana a cura della <strong>\"Fireworks Lieto Carmie e Figli\"</strong> da Visciano (NA)."
+          "titolo": "Batteria pirotecnica - Viale Kennedy",
+          "descrizione": "<strong>Viale Kennedy</strong>, batteria pirotecnica realizzato dalla ditta \"<strong>Lieto Carmine</strong>\" da Visciano (NA).<hr><em>A cura di: <strong>Fuochi Popolari</strong></em>"
         },
         {
           "ora": "10:00",
@@ -177,63 +182,103 @@
         },
         {
           "ora": "10:30",
-          "titolo": "Fuochi Popolari - Via 54 Martiri",
-          "descrizione": "<strong>Via 54 Martiri</strong>, batteria alla napoletana a cura della <strong>\"Pirotecnica Rorriero\"</strong> da Macerata Campania (CE)."
+          "titolo": "Batteria pirotecnica - Via 54 Martiri",
+          "descrizione": "<strong>Via 54 Martiri</strong>, batteria pirotecnica realizzato dalla ditta \"<strong>Pirotecnica Roggiero</strong>\" da Macerata Campania (CE).<hr><em>A cura di: <strong>Fuochi Popolari</strong></em>"
+        },
+        {
+          "ora": "11:00",
+          "titolo": "Batteria sanseverese - Località Luciani (altezza Mulino Mozzillo)",
+          "descrizione": "<strong>Località Luciani (altezza Mulino Mozzillo)</strong>, batteria sanseverese realizzato dalla ditta \"<strong>Nuova Pirodaunia, Altrui Michele</strong>\" da San Severo (FG)."
         },
         {
           "ora": "11:20",
-          "titolo": "Fuochi Popolari - Viale Luciani",
-          "descrizione": "<strong>Viale Luciani</strong>, spettacolare batteria alla sanseverese a cura della <strong>\"Pirotecnica San Pio\"</strong> da San Severo (FG)."
+          "titolo": "Grandiosa batteria sanseverese - Via Luciani (altezza supermercato PRO 7)",
+          "descrizione": "<strong>Via Luciani (altezza supermercato PRO 7)</strong>, grandiosa batteria sanseverese realizzato dalla ditta \"<strong>Pirotecnica San Pio</strong>\" da San Severo (FG).<hr><em>A cura di: <strong>Fuochi Popolari</strong></em>"
+        },
+        {
+          "ora": "12:20",
+          "titolo": "Batteria sanseverese - Via Leonardo Da Vinci",
+          "descrizione": "<strong>Via Leonardo Da Vinci</strong>, batteria sanseverese realizzato dalla ditta \"<strong>Nuova Pirodaunia, Altrui Michele</strong>\" da San Severo (FG).<hr><em>A cura di: <strong>Fuochi Popolari</strong></em>"
         },
         {
           "ora": "12:35",
-          "titolo": "Fuochi Popolari - Via Torre Tommasi",
-          "descrizione": "<strong>Via Torre Tommasi</strong>, batteria alla napoletana a cura della <strong>\"Pirotecnica Pietro Siciliano\"</strong> da Vitulazio (CE)."
+          "titolo": "Batteria pirotecnica - Via Torre Tommasi",
+          "descrizione": "<strong>Via Torre Tommasi</strong>, batteria pirotecnica realizzato dalla ditta \"<strong>Fireworks Siciliano Pietro</strong>\" da Vitulazio (CE).<hr><em>A cura di: <strong>Fuochi Popolari</strong></em>"
         },
         {
           "ora": "14:45",
-          "titolo": "Fuochi Popolari - Via Iardino",
-          "descrizione": "<strong>Via Iardino</strong>, spettacolare batteria alla sanseverese a cura della <strong>\"Nuova Pirodaunia\" di Altrui Michele</strong> da San Severo (FG)."
+          "titolo": "Grandioso spettacolo pirotecnico diurno - Località Iardino",
+          "descrizione": "<strong>Località Iardino</strong>, grandioso spettacolo pirotecnico diurno realizzato dalla ditta \"<strong>L'Artificiosa, F.lli Di Candia</strong>\" da Sassano (SA).<hr><em>A cura di: <strong>Comitato Feste</strong></em>"
         },
         {
           "ora": "15:05",
-          "titolo": "Spettacolo pirotecnico diurno",
-          "descrizione": "All'arrivo della processione in Loc. Iardino, grandioso spettacolo pirotecnico diurno eseguito dalla premiata ditta <strong>\"L'Artificiosa dei Fratelli Di Candia\"</strong> da Sassano (SA)."
+          "titolo": "Grandiosa batteria sanseverese - Località Iardino",
+          "descrizione": "<strong>Località Iardino</strong>, grandiosa batteria sanseverese realizzato dalla ditta \"<strong>Nuova Pirodaunia, Michele Altrui</strong>\" da San Severo (FG).<hr><em>A cura di: <strong>Fuochi Popolari</strong></em>"
+        },
+        {
+          "ora": "15:30",
+          "titolo": "Batteria pirotecnica - Località Miceli",
+          "descrizione": "<strong>Località Miceli</strong>, batteria pirotecnica realizzato dalla ditta \"<strong>Lieto Carmine</strong>\" da Visciano (NA)."
         },
         {
           "ora": "18:00",
-          "titolo": "Santa Messa",
-          "descrizione": "Nella chiesa parrocchiale, celebrazione della Santa Messa."
+          "titolo": "Santa Messa ∙ Batteria pirotecnica - Via Petrarca",
+          "descrizione": "Nella chiesa parrocchiale, celebrazione della Santa Messa.<hr><strong>Via Petrarca</strong>, batteria pirotecnica realizzato dalla ditta \"<strong>Fireworks Siciliano Pietro</strong>\" da Vitulazio (CE)."
         },
         {
           "ora": "18:50",
-          "titolo": "Batteria dei Giovani - Via Tutuni",
-          "descrizione": "<strong>Via Tutuni</strong>, spettacolare batteria alla sanseverese a cura della <strong>\"Nuova Pirodaunia\" di Altrui Michele</strong> da San Severo (FG)."
+          "titolo": "Grandiosa batteria sanseverese - Via Tutuni",
+          "descrizione": "<strong>Via Tutuni</strong>, grandiosa batteria sanseverese realizzato dalla ditta \"<strong>Nuova Pirodaunia, Altrui Michele</strong>\" da San Severo (FG).<hr><em>A cura di: <strong>Fuoco dei Giovani</strong></em>"
         },
         {
           "ora": "19:50",
-          "titolo": "Fuochi Popolari - Via Rimembranza (tratto cava - Via San Pietro)",
-          "descrizione": "<strong>Via Rimembranza (tratto cava - Via San Pietro)</strong>, batteria alla napoletana a cura della <strong>\"Pirotecnica Pietro Siciliano\"</strong> da Vitulazio (CE)."
+          "titolo": "Batteria pirotecnica - Via Rimembranza (tratto Cava – via San Pietro)",
+          "descrizione": "<strong>Via Rimembranza (tratto Cava – via San Pietro)</strong>, batteria pirotecnica realizzato dalla ditta \"<strong>Fireworks Siciliano Pietro</strong>\" da Vitulazio (CE)."
+        },
+        {
+          "ora": "20:40",
+          "titolo": "Batteria pirotecnica - Via San Pietro",
+          "descrizione": "<strong>Via San Pietro</strong>, batteria pirotecnica realizzato dalla ditta \"<strong>Fireworks Siciliano Pietro</strong>\" da Vitulazio (CE)."
+        },
+        {
+          "ora": "21:25",
+          "titolo": "Batteria pirotecnica - Via Garibaldi",
+          "descrizione": "<strong>Via Garibaldi</strong>, batteria pirotecnica realizzato dalla ditta \"<strong>Lieto Carmine</strong>\" da Visciano (NA)."
         },
         {
           "ora": "22:30",
-          "titolo": "Fuochi Popolari - Via Rimembranza (tratto Via Garibaldi - Piazza Riccardo II)",
-          "descrizione": "<strong>Via Rimembranza (tratto Via Garibaldi - Piazza Riccardo II)</strong>, batteria alla napoletana a cura della <strong>\"Pirotecnica Rorriero\"</strong> da Macerata Campania (CE)."
+          "titolo": "Batteria pirotecnica - Via Rimembranza (tratto via Garibaldi – Piazza Riccardo II)",
+          "descrizione": "<strong>Via Rimembranza (tratto via Garibaldi – Piazza Riccardo II)</strong>, batteria pirotecnica realizzato dalla ditta \"<strong>Pirotecnica Roggiero</strong>\" da Macerata Campania (CE).<hr><em>A cura di: <strong>Fuochi Popolari</strong></em>"
+        },
+        {
+          "ora": "22:55",
+          "titolo": "Batteria sanseverese - Via Carducci",
+          "descrizione": "<strong>Via Carducci</strong>, batteria sanseverese realizzato dalla ditta \"<strong>Nuova Pirodaunia, Michele Altrui</strong>\" da San Severo (FG)."
         },
         {
           "ora": "23:05",
-          "titolo": "Fuochi Popolari - Viale Dante (tratto incrocio Via Iardino - Incrocio Tufo)",
-          "descrizione": "<strong>Viale Dante (tratto incrocio Via Iardino - Incrocio Tufo)</strong>, fantasmagorica batteria alla bolognese a cura della <strong>\"Nuova Pirodaunia\" di Altrui Michele</strong> da San Severo (FG)."
+          "titolo": "Batteria bolognese - Viale Dante",
+          "descrizione": "<strong>Viale Dante</strong>, batteria bolognese realizzato dalla ditta \"<strong>Nuova Pirodaunia, Michele Altrui</strong>\" da San Severo (FG).<hr><em>A cura di: <strong>Fuochi Popolari</strong></em>"
+        },
+        {
+          "ora": "23:10",
+          "titolo": "Batteria pirotecnica - Via Petrarca",
+          "descrizione": "<strong>Via Petrarca</strong>, batteria pirotecnica realizzato dalla ditta \"<strong>Fireworks Siciliano Pietro</strong>\" da Vitulazio (CE)."
+        },
+        {
+          "ora": "23:20",
+          "titolo": "Batteria pirotecnica - Via Ruggiero I",
+          "descrizione": ""
         },
         {
           "ora": "00:15",
-          "titolo": "Fuochi Popolari - Via Roma (tratto Piazza Riccardo II - Piazza Croce)",
-          "descrizione": "<strong>Via Roma (tratto Piazza Riccardo II - Piazza Croce)</strong>, batteria alla napoletana a cura della <strong>\"Fireworks Lieto Carmie e Figli\"</strong> da Visciano (NA)."
+          "titolo": "Batteria pirotecnica - Via Roma",
+          "descrizione": "<strong>Via Roma</strong>, batteria pirotecnica realizzato dalla ditta \"<strong>Lieto Carmine</strong>\" da Visciano (NA).<hr><em>A cura di: <strong>Fuochi Popolari</strong></em>"
         },
         {
           "ora": "00:30",
           "titolo": "Gran Finale — Spettacolo piromusicale",
-          "descrizione": "All'entrata della Madonna nel Centro Parrocchiale, ai piedi della Croce del III Millennio illuminata in una particolare atmosfera, il <strong>M° Raffaele Russo</strong> intonerà l'<em>Ave Maria</em> di Schubert e l'<em>Ave Madonna Santa</em>. Seguirà un momento di raccoglimento e di preghiera da parte del nostro <strong>M. Rev. Parroco Valerio Lucca</strong>. Al termine, la ditta <strong>\"Pyrotek Italia\"</strong> da Apricena (FG), eseguirà uno spettacolo scenografico piromusicale. Successivamente, il rientro della Vergine Santissima dell'Agnena in chiesa sarà accompagnato da un ulteriore omaggio, particolare e suggestivo.",
+          "descrizione": "All'entrata della Madonna nel Centro Parrocchiale, ai piedi della Croce del III Millennio illuminata in una particolare atmosfera, il <strong>M° Raffaele Russo</strong> intonerà l'<em>Ave Maria</em> di Schubert e l'<em>Ave Madonna Santa</em>. Seguirà un momento di raccoglimento e di preghiera da parte del nostro <strong>M. Rev. Parroco Valerio Lucca</strong>. Al termine, la ditta <strong>\"Pyrotek Italia\"</strong> da Torremaggiore (FG), eseguirà uno spettacolo scenografico piromusicale, a cura del Comitato Feste. Successivamente, il rientro della Vergine Santissima dell'Agnena in chiesa sarà accompagnato da un ulteriore omaggio, particolare e suggestivo.",
           "in_evidenza": true
         }
       ]
