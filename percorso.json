@@ -1,0 +1,437 @@
+[
+  {
+    "index": 1,
+    "orario": "08:05",
+    "nome": "Chiesa<hr><em>Uscita</em>"
+  },
+  {
+    "index": 2,
+    "orario": "08:10",
+    "nome": "Via S. Maria dell'Agnena<hr><em>Fuochi Popolari</em>"
+  },
+  {
+    "index": 3,
+    "orario": "~",
+    "nome": "Via Municipio"
+  },
+  {
+    "index": 4,
+    "orario": "~",
+    "nome": "Via P. Lagnese"
+  },
+  {
+    "index": 5,
+    "orario": "08:55",
+    "nome": "Viale Kennedy<hr><em>Fuochi Popolari</em>"
+  },
+  {
+    "index": 6,
+    "orario": "~",
+    "nome": "Viale Kennedy IV trav."
+  },
+  {
+    "index": 7,
+    "orario": "~",
+    "nome": "Viale Kennedy V trav."
+  },
+  {
+    "index": 8,
+    "orario": "~",
+    "nome": "Viale Kennedy VI trav."
+  },
+  {
+    "index": 9,
+    "orario": "~",
+    "nome": "Viale Kennedy I trav."
+  },
+  {
+    "index": 10,
+    "orario": "10:20",
+    "nome": "Mausoleo Ossario Cava dei 54 Martiri<hr><em>Fuochi Popolari</em>"
+  },
+  {
+    "index": 11,
+    "orario": "~",
+    "nome": "Via 54 Martiri"
+  },
+  {
+    "index": 12,
+    "orario": "~",
+    "nome": "Viale Italia (tratto fino a \"Margarito abbigliamento\")"
+  },
+  {
+    "index": 13,
+    "orario": "~",
+    "nome": "Via Luciani"
+  },
+  {
+    "index": 14,
+    "orario": "~",
+    "nome": "Via Marconi"
+  },
+  {
+    "index": 15,
+    "orario": "~",
+    "nome": "Prolung. Via Marconi"
+  },
+  {
+    "index": 16,
+    "orario": "11:20",
+    "nome": "Via Luciani<hr><em>Fuochi Popolari</em>"
+  },
+  {
+    "index": 17,
+    "orario": "~",
+    "nome": "Prolung. Via E. Fermi"
+  },
+  {
+    "index": 18,
+    "orario": "~",
+    "nome": "Via E. Fermi"
+  },
+  {
+    "index": 19,
+    "orario": "~",
+    "nome": "Via Marconi"
+  },
+  {
+    "index": 20,
+    "orario": "~",
+    "nome": "Viale Italia"
+  },
+  {
+    "index": 21,
+    "orario": "~",
+    "nome": "Tratto Via Roma"
+  },
+  {
+    "index": 22,
+    "orario": "~",
+    "nome": "Via T. Tommasi"
+  },
+  {
+    "index": 23,
+    "orario": "~",
+    "nome": "Tratto Via Marigliano"
+  },
+  {
+    "index": 24,
+    "orario": "~",
+    "nome": "Via L. Da Vinci"
+  },
+  {
+    "index": 25,
+    "orario": "12:35",
+    "nome": "Prolung. Via T. Tommasi<hr><em>Fuochi Popolari</em>"
+  },
+  {
+    "index": 26,
+    "orario": "~",
+    "nome": "Via Luciani"
+  },
+  {
+    "index": 27,
+    "orario": "~",
+    "nome": "Via Boccaccio"
+  },
+  {
+    "index": 28,
+    "orario": "~",
+    "nome": "Piazza Giovanni XXIII"
+  },
+  {
+    "index": 29,
+    "orario": "~",
+    "nome": "2° tratto Via Marigliano"
+  },
+  {
+    "index": 30,
+    "orario": "~",
+    "nome": "Via R. Margherita"
+  },
+  {
+    "index": 31,
+    "orario": "~",
+    "nome": "Via Roma"
+  },
+  {
+    "index": 32,
+    "orario": "~",
+    "nome": "Viale Dante"
+  },
+  {
+    "index": 33,
+    "orario": "~",
+    "nome": "Piazza Giovanni XIII"
+  },
+  {
+    "index": 34,
+    "orario": "~",
+    "nome": "Via B. Croce"
+  },
+  {
+    "index": 35,
+    "orario": "~",
+    "nome": "Piazza Di Maio"
+  },
+  {
+    "index": 36,
+    "orario": "13:30",
+    "nome": "Via B. Croce<hr><em>Ristoro</em>"
+  },
+  {
+    "index": 37,
+    "orario": "~",
+    "nome": "Viale Dante"
+  },
+  {
+    "index": 38,
+    "orario": "~",
+    "nome": "Prolung. Via Iardino"
+  },
+  {
+    "index": 39,
+    "orario": "~",
+    "nome": "Tratto Via Iardino"
+  },
+  {
+    "index": 40,
+    "orario": "~",
+    "nome": "Loc. Iardino (cooperative)"
+  },
+  {
+    "index": "",
+    "orario": "14:45",
+    "nome": "<em>Fuochi Popolari</em>"
+  },
+  {
+    "index": 41,
+    "orario": "15:05",
+    "nome": "Cimitero<hr><em>Spettacolo Diurno</em>"
+  },
+  {
+    "index": 42,
+    "orario": "~",
+    "nome": "Loc. Miceli"
+  },
+  {
+    "index": 43,
+    "orario": "16:45",
+    "nome": "Via Miceli"
+  },
+  {
+    "index": 44,
+    "orario": "~",
+    "nome": "IACP"
+  },
+  {
+    "index": 45,
+    "orario": "~",
+    "nome": "Via Arbustella"
+  },
+  {
+    "index": 46,
+    "orario": "~",
+    "nome": "Via Tufo III trav."
+  },
+  {
+    "index": 47,
+    "orario": "~",
+    "nome": "Tratto Via Tufo e ritorno"
+  },
+  {
+    "index": 48,
+    "orario": "~",
+    "nome": "Via Tufo I trav."
+  },
+  {
+    "index": 49,
+    "orario": "~",
+    "nome": "Via Tufo II trav."
+  },
+  {
+    "index": 50,
+    "orario": "~",
+    "nome": "Tratto Via Iardino"
+  },
+  {
+    "index": 51,
+    "orario": "~",
+    "nome": "Tratto Viale Dante"
+  },
+  {
+    "index": 52,
+    "orario": "~",
+    "nome": "Via A. Manzoni"
+  },
+  {
+    "index": 53,
+    "orario": "~",
+    "nome": "Tratto Viale Dante"
+  },
+  {
+    "index": 54,
+    "orario": "18:00",
+    "nome": "Via Petrarca<hr><em>Batteria</em>"
+  },
+  {
+    "index": 55,
+    "orario": "~",
+    "nome": "Via Pascoli"
+  },
+  {
+    "index": 56,
+    "orario": "~",
+    "nome": "Parcheggio Via Pascoli"
+  },
+  {
+    "index": 57,
+    "orario": "~",
+    "nome": "Via Rimembranza"
+  },
+  {
+    "index": 58,
+    "orario": "~",
+    "nome": "Via Pascoli"
+  },
+  {
+    "index": 59,
+    "orario": "~",
+    "nome": "Via Petrarca"
+  },
+  {
+    "index": 60,
+    "orario": "~",
+    "nome": "Via Gioberti"
+  },
+  {
+    "index": 61,
+    "orario": "~",
+    "nome": "Via Petrarca"
+  },
+  {
+    "index": 62,
+    "orario": "18:50",
+    "nome": "Loc. Tutuni<hr><em>Batteria dei Giovani</em>"
+  },
+  {
+    "index": 63,
+    "orario": "19:50",
+    "nome": "Via Rimembranza<hr><em>Fuochi Popolari</em>"
+  },
+  {
+    "index": 64,
+    "orario": "~",
+    "nome": "Via Mameli"
+  },
+  {
+    "index": 65,
+    "orario": "~",
+    "nome": "Via Rimembranza"
+  },
+  {
+    "index": 66,
+    "orario": "~",
+    "nome": "Via Nievo"
+  },
+  {
+    "index": 67,
+    "orario": "~",
+    "nome": "Biforcazione Via Nievo"
+  },
+  {
+    "index": 68,
+    "orario": "~",
+    "nome": "Via Rimembranza"
+  },
+  {
+    "index": 69,
+    "orario": "20:40",
+    "nome": "Via S. Pietro<hr><em>Batteria</em>"
+  },
+  {
+    "index": 70,
+    "orario": "~",
+    "nome": "Via N. Sauro"
+  },
+  {
+    "index": 71,
+    "orario": "~",
+    "nome": "Via Rimembranza"
+  },
+  {
+    "index": 72,
+    "orario": "21:25",
+    "nome": "Via Garibaldi<hr><em>Batteria</em>"
+  },
+  {
+    "index": 73,
+    "orario": "~",
+    "nome": "Via E. Toti"
+  },
+  {
+    "index": 74,
+    "orario": "22:00",
+    "nome": "Via S. Pellico<hr><em>Ristoro</em>"
+  },
+  {
+    "index": 75,
+    "orario": "22:30",
+    "nome": "Via Rimembranza<hr><em>Fuochi Popolari</em>"
+  },
+  {
+    "index": 76,
+    "orario": "~",
+    "nome": "Via A. Russo"
+  },
+  {
+    "index": 77,
+    "orario": "22:45",
+    "nome": "Piazza Riccardo II"
+  },
+  {
+    "index": 78,
+    "orario": "~",
+    "nome": "Via B. Croce"
+  },
+  {
+    "index": 79,
+    "orario": "~",
+    "nome": "Via Carducci"
+  },
+  {
+    "index": 80,
+    "orario": "23:05",
+    "nome": "Tratto Viale Dante<hr><em>Fuochi Popolari</em>"
+  },
+  {
+    "index": 81,
+    "orario": "23:20",
+    "nome": "Via Ruggiero I<hr><em>Batteria</em>"
+  },
+  {
+    "index": 82,
+    "orario": "23:55",
+    "nome": "Piazza Riccardo II"
+  },
+  {
+    "index": 83,
+    "orario": "00:15",
+    "nome": "Via Roma<hr><em>Fuochi Popolari</em>"
+  },
+  {
+    "index": 84,
+    "orario": "~",
+    "nome": "Via S. Maria dell'Agnena"
+  },
+  {
+    "index": 85,
+    "orario": "00:35",
+    "nome": "Centro Parrocchiale<hr><em>Spettacolo Piromusicale</em>"
+  },
+  {
+    "index": 86,
+    "orario": "01:00",
+    "nome": "Chiesa<hr><em>Rientro</em>"
+  }
+]

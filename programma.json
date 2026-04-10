@@ -161,12 +161,12 @@
           "in_evidenza": true
         },
         {
-          "ora": "08:30",
+          "ora": "08:10",
           "titolo": "Fuochi Popolari - Via Santa Maria dell'Agnena",
           "descrizione": "<strong>Via Santa Maria dell'Agnena</strong>, batteria alla sanseverese a cura della <strong>\"Nuova Pirodaunia\" di Altrui Michele</strong> da San Severo (FG)."
         },
         {
-          "ora": "09:30",
+          "ora": "08:55",
           "titolo": "Fuochi Popolari - Viale Kennedy",
           "descrizione": "<strong>Viale Kennedy</strong>, batteria alla napoletana a cura della <strong>\"Fireworks Lieto Carmie e Figli\"</strong> da Visciano (NA)."
         },
@@ -181,52 +181,57 @@
           "descrizione": "<strong>Via 54 Martiri</strong>, batteria alla napoletana a cura della <strong>\"Pirotecnica Rorriero\"</strong> da Macerata Campania (CE)."
         },
         {
-          "ora": "11:30",
+          "ora": "11:20",
           "titolo": "Fuochi Popolari - Viale Luciani",
           "descrizione": "<strong>Viale Luciani</strong>, spettacolare batteria alla sanseverese a cura della <strong>\"Pirotecnica San Pio\"</strong> da San Severo (FG)."
         },
         {
-          "ora": "13:00",
+          "ora": "12:35",
           "titolo": "Fuochi Popolari - Via Torre Tommasi",
           "descrizione": "<strong>Via Torre Tommasi</strong>, batteria alla napoletana a cura della <strong>\"Pirotecnica Pietro Siciliano\"</strong> da Vitulazio (CE)."
         },
         {
-          "ora": "15:00",
+          "ora": "14:45",
           "titolo": "Fuochi Popolari - Via Iardino",
           "descrizione": "<strong>Via Iardino</strong>, spettacolare batteria alla sanseverese a cura della <strong>\"Nuova Pirodaunia\" di Altrui Michele</strong> da San Severo (FG)."
         },
         {
-          "ora": "15:30",
+          "ora": "15:05",
           "titolo": "Spettacolo pirotecnico diurno",
           "descrizione": "All'arrivo della processione in Loc. Iardino, grandioso spettacolo pirotecnico diurno eseguito dalla premiata ditta <strong>\"L'Artificiosa dei Fratelli Di Candia\"</strong> da Sassano (SA)."
         },
         {
           "ora": "18:00",
-          "titolo": "Santa Messa ∙ Fuochi Popolari - Via Tutuni",
-          "descrizione": "Nella chiesa parrocchiale, celebrazione della Santa Messa.<hr><strong>Via Tutuni</strong>, spettacolare batteria alla sanseverese a cura della <strong>\"Nuova Pirodaunia\" di Altrui Michele</strong> da San Severo (FG)."
+          "titolo": "Santa Messa",
+          "descrizione": "Nella chiesa parrocchiale, celebrazione della Santa Messa."
         },
         {
-          "ora": "19:00",
+          "ora": "18:50",
+          "titolo": "Batteria dei Giovani - Via Tutuni",
+          "descrizione": "<strong>Via Tutuni</strong>, spettacolare batteria alla sanseverese a cura della <strong>\"Nuova Pirodaunia\" di Altrui Michele</strong> da San Severo (FG)."
+        },
+        {
+          "ora": "19:50",
           "titolo": "Fuochi Popolari - Via Rimembranza (tratto cava - Via San Pietro)",
           "descrizione": "<strong>Via Rimembranza (tratto cava - Via San Pietro)</strong>, batteria alla napoletana a cura della <strong>\"Pirotecnica Pietro Siciliano\"</strong> da Vitulazio (CE)."
         },
         {
-          "ora": "21:00",
+          "ora": "22:30",
           "titolo": "Fuochi Popolari - Via Rimembranza (tratto Via Garibaldi - Piazza Riccardo II)",
           "descrizione": "<strong>Via Rimembranza (tratto Via Garibaldi - Piazza Riccardo II)</strong>, batteria alla napoletana a cura della <strong>\"Pirotecnica Rorriero\"</strong> da Macerata Campania (CE)."
         },
         {
-          "ora": "22:00",
+          "ora": "23:05",
           "titolo": "Fuochi Popolari - Viale Dante (tratto incrocio Via Iardino - Incrocio Tufo)",
           "descrizione": "<strong>Viale Dante (tratto incrocio Via Iardino - Incrocio Tufo)</strong>, fantasmagorica batteria alla bolognese a cura della <strong>\"Nuova Pirodaunia\" di Altrui Michele</strong> da San Severo (FG)."
         },
         {
-          "ora": "23:00",
+          "ora": "00:15",
           "titolo": "Fuochi Popolari - Via Roma (tratto Piazza Riccardo II - Piazza Croce)",
           "descrizione": "<strong>Via Roma (tratto Piazza Riccardo II - Piazza Croce)</strong>, batteria alla napoletana a cura della <strong>\"Fireworks Lieto Carmie e Figli\"</strong> da Visciano (NA)."
         },
         {
-          "ora": "23:45",
+          "ora": "00:35",
           "titolo": "Gran Finale — Spettacolo piromusicale",
           "descrizione": "All'entrata della Madonna nel Centro Parrocchiale, ai piedi della Croce del III Millennio illuminata in una particolare atmosfera, il <strong>M° Raffaele Russo</strong> intonerà l'<em>Ave Maria</em> di Schubert e l'<em>Ave Madonna Santa</em>. Seguirà un momento di raccoglimento e di preghiera da parte del nostro <strong>M. Rev. Parroco Valerio Lucca</strong>. Al termine, la ditta <strong>\"Pyrotek Italia\"</strong> da Apricena (FG), eseguirà uno spettacolo scenografico piromusicale. Successivamente, il rientro della Vergine Santissima dell'Agnena in chiesa sarà accompagnato da un ulteriore omaggio, particolare e suggestivo.",
           "in_evidenza": true
