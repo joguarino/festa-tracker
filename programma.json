@@ -2,7 +2,7 @@
   "titolo": "S. Maria dell'Agnena",
   "sottotitolo": "Festa Patronale 2026",
   "luogo": "Vitulazio (CE)",
-  "titolo_countdown": "Al Radioso Giorno",
+  "titolo_countdown": "All'Alba del Radioso Giorno",
   "giorni": [
     {
       "data": "2026-04-06",
@@ -271,6 +271,22 @@
           "descrizione": ""
         },
         {
+          "ora": "23:59",
+          "titolo": "<em>segue giorno successivo &rarr;</em>",
+          "descrizione": ""
+        }
+      ]
+    },
+    {
+      "data": "2026-04-13",
+      "titolo": "Lunedì",
+      "eventi": [
+        {
+          "ora": "00:00",
+          "titolo": "<em>&larr; segue da giorno precedente</em>",
+          "descrizione": ""
+        },
+        {
           "ora": "00:15",
           "titolo": "Batteria pirotecnica - Via Roma",
           "descrizione": "<strong>Via Roma</strong>, batteria pirotecnica realizzato dalla ditta \"<strong>Lieto Carmine</strong>\" da Visciano (NA).<hr><em>A cura di: <strong>Fuochi Popolari</strong></em>"
@@ -280,13 +296,7 @@
           "titolo": "Gran Finale — Spettacolo piromusicale",
           "descrizione": "All'entrata della Madonna nel Centro Parrocchiale, ai piedi della Croce del III Millennio illuminata in una particolare atmosfera, il <strong>M° Raffaele Russo</strong> intonerà l'<em>Ave Maria</em> di Schubert e l'<em>Ave Madonna Santa</em>. Seguirà un momento di raccoglimento e di preghiera da parte del nostro <strong>M. Rev. Parroco Valerio Lucca</strong>. Al termine, la ditta <strong>\"Pyrotek Italia\"</strong> da Torremaggiore (FG), eseguirà uno spettacolo scenografico piromusicale, a cura del Comitato Feste. Successivamente, il rientro della Vergine Santissima dell'Agnena in chiesa sarà accompagnato da un ulteriore omaggio, particolare e suggestivo.",
           "in_evidenza": true
-        }
-      ]
-    },
-    {
-      "data": "2026-04-13",
-      "titolo": "Lunedì",
-      "eventi": [
+        },
         {
           "ora": "08:00",
           "titolo": "Sveglia",
