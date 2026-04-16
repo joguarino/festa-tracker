@@ -342,7 +342,8 @@
         {
           "ora": "21:00",
           "titolo": "Serata musicale",
-          "descrizione": "Serata musicale. Dettagli in aggiornamento."
+          "descrizione": "Serata musicale. Dettagli in aggiornamento.",
+          "in_evidenza": true
         }
       ]
     },
@@ -358,8 +359,8 @@
         },
         {
           "ora": "21:30",
-          "titolo": "Concerto — Noto artista della canzone italiana",
-          "descrizione": "In Piazza Vitulatini nel Mondo (Area Mercato), concerto di un <strong>noto artista della canzone italiana</strong>.",
+          "titolo": "Concerto di Gigi Finizio",
+          "descrizione": "In Piazza Vitulatini nel Mondo (Area Mercato), concerto di <strong>Gigi Finizio</strong>, con un repertorio di successi della canzone napoletana e italiana.",
           "in_evidenza": true
         }
       ]
@@ -411,7 +412,7 @@
         {
           "ora": "18:00",
           "titolo": "Solenne Processione di chiusura",
-          "descrizione": "Nella chiesa parrocchiale, celebrazione della Santa Messa Solenne di ringraziamento, animata dai cori riuniti della nostra parrocchia, diretti dal nostro concittadino <strong>M° Raffaele Russo</strong>. Al termine, come da antica tradizione, a chiusura delle celebrazioni liturgiche della Festa, Solenne Processione della <strong>Vergine Santissima dell'Agnena</strong> e dei <strong>Santi venerati</strong>, portati a spalla dall'<strong>Associazione Cattolica \"Carristi Santa Maria dell'Agnena\"</strong> per le seguenti strade: Via Principe di Piemonte, Via Pietro Lagnese, Via Roma, Via Santa Maria dell'Agnena, Centro Parrocchiale, accompagnata dal Gran Concerto Bandistico <strong>\"Città di Mottola\"</strong>.",
+          "descrizione": "Nella chiesa parrocchiale, celebrazione della Santa Messa Solenne di ringraziamento, animata dai cori riuniti della nostra parrocchia, diretti dal nostro concittadino <strong>M° Raffaele Russo</strong>. Al termine, come da antica tradizione, a chiusura delle celebrazioni liturgiche della Festa, Solenne Processione della <strong>Vergine Santissima dell'Agnena</strong> e dei <strong>Santi venerati</strong>, portati a spalla dall'<strong>Associazione Cattolica \"Carristi Santa Maria dell'Agnena\"</strong> per le seguenti strade: <ul><li>Via Principe di Piemonte</li><li>Via Pietro Lagnese</li><li>Via Roma</li><li>Via Santa Maria dell'Agnena</li><li>Centro Parrocchiale</li></ul> accompagnata dal Gran Concerto Bandistico <strong>\"Città di Mottola\"</strong>.",
           "in_evidenza": true
         },
         {
